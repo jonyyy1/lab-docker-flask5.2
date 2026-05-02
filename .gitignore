@@ -1,0 +1,6 @@
+.env.dev
+pg_password.txt
+__pycache__/
+*.pyc
+.venv/
+.env
